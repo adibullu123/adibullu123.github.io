@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+img {
+    width: 250px;
+    height: 320px;
+    border-radius: 50%;
+    margin: 0 auto;
+    display: block;
+}
+
+h1,
+h2,
+h3,
+p,
+li {
+    text-align: center;
+}
+
+
+#social-media {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+#social-media img {
+    width: 40px;
+    height: 40px;
+    margin: 0 10px;
+}
+
+.resume-content {
+    width: 70%;
+    margin: 0 auto;
+}
+
+#skills {
+    list-style-type: none;
+
+    margin-left: -37px;
+    
+
+}
+
+p {
+    line-height:30px;
+}
